@@ -10,7 +10,7 @@ A small Python program to show off your love for Bingus, and invite people to "T
 
 * Download and install the latest version of Python.
     * [Windows downloads](https://www.python.org/downloads/windows/)
-    * On Linux, use your package manager. Many distros already come with python pre-installed.
+    * On Linux, use your package manager. Many distros already come with Python pre-installed.
     
 
 * Install the required modules
@@ -32,10 +32,10 @@ A small Python program to show off your love for Bingus, and invite people to "T
     * Clone it using the `git` CLI.
     
 ## Usage
-* Change directory into the one containing the repository
+* Change directory into the one containing the repository:
     * `cd /path/to/bingus-richpresence`
     
-* Copy your Client ID and Image Key from your application in the discord dev portal
+* Copy your Client ID and Image Key from your application in the discord dev portal.
     * The client ID is visible on the main page, but for the Image Key go to Rich Presence -> Art assets.
     
 * Run the code
