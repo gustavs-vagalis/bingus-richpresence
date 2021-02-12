@@ -33,8 +33,7 @@ A small Python program to show off your love for Bingus, and invite people to "T
     
 ## Usage
 * Change directory into the one containing the repository:
-    * `cd /path/to/bingus-richpresence`
-    
+    * `cd /path/to/bingus-richpresence-master`
 * Copy your Client ID and Image Key from your application in the discord dev portal.
     * The client ID is visible on the main page, but for the Image Key go to Rich Presence -> Art assets.
     
