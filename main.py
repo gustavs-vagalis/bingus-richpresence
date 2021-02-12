@@ -6,7 +6,7 @@ client_id = str(sys.argv[1])  # Reads client ID from argument #1
 print(sys.argv)
 RPC = Presence(client_id)  # Initialize the Presence client
 RPC.connect()
-buttons = [{"label": "Join the House of Bingus", "url": "https://discord.gg/bingus"}]
+buttons = [{"label": "Join the House of Bingus", "url": "https://discord.gg/bingus"}, {"label": "Get this RP", "url": "https://github.com/gustavs-vagalis/bingus-richpresence"}]
 
 while True:
     RPC.update(
