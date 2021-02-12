@@ -37,10 +37,10 @@ A small Python program to show off your love for Bingus, and invite people to "T
     
 * Copy your Client ID and Image Key from your application in the discord dev portal.
     * The client ID is visible on the main page, but for the Image Key go to Rich Presence -> Art assets.
+    * Paste these credentials in the file named `credentials.txt`, each on it's own line. 
     
 * Run the code
-    * In your command prompt or terminal, type `python main.py CLIENT-ID-HERE IMAGE-KEY-HERE`.
-        * A completed command would look like `python main.py 80934327152361522 upload_2021_04_20`.
+    * In your command prompt or terminal, type `python main.py`.
     
 Done! If everything was successful, once someone looks at your status, it will appear like this!
 Keep the terminal open, or run it as a daemon.
